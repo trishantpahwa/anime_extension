@@ -5,8 +5,8 @@ import json
 
 
 # url = 'https://kissanime.rest/anime/kuroko-no-basuke-2/12555/'
-url = 'https://kissanime.rest/anime/naruto-dub-/13765/'
-# url = input('Enter kissanum.rest url: ')
+#url = 'https://kissanime.rest/anime/naruto-dub-/13765/'
+url = input('Enter kissanum.rest url: ')
 
 start_time = timeit.default_timer()
 
